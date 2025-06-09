@@ -1,5 +1,5 @@
-# ***Jose Juan Jorge Sosa***
-------------------------------------------------------------
+# *Jose Juan Jorge Sosa*
+
 
 > ***Las Palmas de Gran Canaria***
 >> ***Provincia Las Palmas***
@@ -12,7 +12,7 @@
 
 # ***Fuerteventura 2000 sl***
 
------------------------
+
 
 ##  Cualificación profesional de referencia 
 
@@ -22,18 +22,18 @@
 - ### Unidades de competencia 
 
 
-	-  ##### UC0966_3 
+	-  UC0966_3 
 		- Consultar y extraer información de distintas plataformas de 
 almacenamiento de datos. 
 
-	-  ##### UC0967_3 
+	-  UC0967_3 
 		- Crear y gestionar repositorios de contenidos 
 
-	-  ##### UC0968_3 
+	-  UC0968_3 
 		- Administrar el sistema de gestión de información 
 
 
------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ### Ocupaciones o puestos de trabajo relacionados: 
 
