@@ -37,10 +37,13 @@ almacenamiento de datos.
 
 ### Ocupaciones o puestos de trabajo relacionados: 
 
-1. Gestor de contenidos. 
-2. Gestor de portales web. 
-3. Administrador de sistemas de contenidos.
-4. Integrador de sistemas de información.  
+> Gestor de contenidos.
+
+> Gestor de portales web.
+
+> Administrador de sistemas de contenidos.
+
+> Integrador de sistemas de información.  
 
 
 -------------------------------------------------------------------------
