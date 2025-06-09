@@ -5,8 +5,12 @@
 >> ***Provincia Las Palmas***
 >>> (IFCD0211)  SISTEMAS DE GESTIÓN DE INFORMACIÓN
 ------------------------------------------------------------
+<!--
+![](imagenes/sgi.jpg) -->
 
-![](imagenes/sgi.jpg)
+<img src="imagenes/sgi.jpg" alt="Imagen local" width="1000"/>
+
+
 
 ---------------------------------------------------------------
 
@@ -47,8 +51,11 @@ almacenamiento de datos.
 
 
 -------------------------------------------------------------------------
+<!--
+![](imagenes/global.jpg) -->
 
-![](imagenes/global.jpg)
+<img src="imagenes/global.jpg" alt="Imagen local" width="1000"/>
+
 
 ----------------------------------------------------------------------------
 
