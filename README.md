@@ -103,7 +103,7 @@ contenida en gestores de datos
 > MP0459: Módulo de prácticas profesionales no laborales. 
 
 -----------------------------------------------
-© 2025 José Juan Jorge Sosa. Todos los derechos reservados.
+Todos los derechos reservados. © 2025 José Juan Jorge Sosa.
 
 
 ----------------------------------------------------
