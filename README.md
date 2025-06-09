@@ -1,4 +1,4 @@
-# jose Juan Jorge Sosa
+# ***Jose Juan Jorge Sosa***
 ------------------------------------------------------------
 
 > ***Las Palmas de Gran Canaria***
@@ -6,11 +6,11 @@
 >>> (IFCD0211)  SISTEMAS DE GESTIÓN DE INFORMACIÓN
 ------------------------------------------------------------
 
-![](imagenes\sgi.jpg)
+![](imagenes/sgi.jpg)
 
 ---------------------------------------------------------------
 
-## ***Fuerteventura 2000 sl***
+# ***Fuerteventura 2000 sl***
 
 -----------------------
 
@@ -40,10 +40,14 @@ almacenamiento de datos.
 1. Gestor de contenidos. 
 2. Gestor de portales web. 
 3. Administrador de sistemas de contenidos.
-4. ntegrador de sistemas de información.  
+4. Integrador de sistemas de información.  
 
 
 -------------------------------------------------------------------------
+
+![](imagenes/global.jpg)
+
+----------------------------------------------------------------------------
 
 ### Módulos certificado 
 
@@ -96,3 +100,7 @@ contenida en gestores de datos
 > MP0459: Módulo de prácticas profesionales no laborales. 
 
 -----------------------------------------------
+© 2025 José Juan Jorge Sosa. Todos los derechos reservados.
+
+
+----------------------------------------------------
