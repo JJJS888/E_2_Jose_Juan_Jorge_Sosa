@@ -1,4 +1,4 @@
-# *Jose Juan Jorge Sosa*
+# *JOSÉ JUAN JORGE SOSA*
 
 
 > ***Las Palmas de Gran Canaria***
