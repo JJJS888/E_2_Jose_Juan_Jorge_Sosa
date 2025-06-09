@@ -1,0 +1,39 @@
+FICHA DE CERTIFICADO DE PROFESIONALIDAD 
+(IFCD0211)  SISTEMAS DE GESTIÓN DE INFORMACIÓN (RD 628/2013, de 2 de agosto) 
+ 
+COMPETENCIA GENERAL: Implementar y administrar sistemas de gestión de información en una organización, según un diseño especificado, ubicados en plataformas y soportes 
+informáticos heterogéneos que garanticen su registro, clasificación, distribución y trazabilidad.  
+NIV. Cualificación profesional de referencia Unidades de competencia Ocupaciones o puestos de trabajo relacionados: 
+3 
+IFC304_3 SISTEMAS DE GESTIÓN DE 
+INFORMACIÓN  
+ 
+(RD 1201/2007, de 14 de septiembre)  
+ 
+UC0966_3 Consultar y extraer información de distintas plataformas de 
+almacenamiento de datos.  Gestor de contenidos. 
+ Gestor de portales web.  
+ Administrador de sistemas de contenidos.  
+ Integrador de sistemas de información.  
+ 
+UC0967_3 Crear y gestionar repositorios de contenidos 
+UC0968_3 Administrar el sistema de gestión de información 
+ 
+ 
+Correspondencia con el Catálogo Modular de Formación Profesional 
+H. Q Módulos certificado H. CP Unidades formativas Horas 
+210 MF0966_3: Consulta y manipulación de información 
+contenida en gestores de datos 210 
+UF2213: Modelos de datos y visión conceptual de una base de datos 60 
+UF2214: Implementación y uso de una BD 80 
+UF2215: Herramientas de los sistemas gestores de bases de datos. Pasarelas y medios de conexión 70 
+240 MF0967_3: Creación y gestión de repositorios de contenidos 200 
+UF2216: Repositorios de contenidos 70 
+UF2217: Lenguaje XML 80 
+UF2218: Desarrollo de un CMS   50 
+90 MF0968_3: Administración de sistemas de gestión de 
+información 100 
+UF1643: Gestión y control de los Sistemas de información 70 
+UF1644: Canales de distribución y publicación utilizados en los sistemas gestores de información 30 
+ MP0459: Módulo de prácticas profesionales no laborales. 80   
+540 Duración horas totales certificado de profesionalidad 590 Duración horas módulos formativos 510 
